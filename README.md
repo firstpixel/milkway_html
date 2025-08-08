@@ -88,7 +88,7 @@ The scene is intentionally not to physical scale; sizes and distances are tuned
   for clarity so that all major bodies are visible together on screen.
 
 
-## Appendix: original spec
+## PROMPT GPT5: original spec
 
 Create a single self-contained HTML file (index.html) that renders a 3D Solar System using vanilla JavaScript + WebGL 1.0 (no external libraries). The user must be able to orbit, pan, zoom, and free-fly the camera. All planets and the Sun must be visible on screen at start and after window resizes. Distances and sizes are intentionally non-realistic (compressed) but keep approximate proportions.
 
